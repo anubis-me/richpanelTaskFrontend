@@ -28,7 +28,7 @@ function Conversation({ className }) {
 					<li className='right self-end flex items-center space-x-3'>
 						<div className='msg flex flex-col space-y-2'>
 							<div className='text bg-white w-max p-4 rounded-lg shadow-md'>
-								We've 3 left in stock!
+								We have 3 left in stock!
 							</div>
 							<div className='flex items-center space-x-2'>
 								<div className='text bg-white w-max p-4 rounded-lg shadow-md'>
