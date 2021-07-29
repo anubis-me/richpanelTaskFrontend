@@ -19,8 +19,7 @@ export default function Home() {
 			</div>
 			<button
 				onClick={() => {
-					// signIn("facebook");
-					router.push("/dashboard/conversations");
+					signIn("facebook");
 				}}
 				className='bg-primary text-white p-3 flex space-x-2'>
 				<Login className='h-6' fill='#fff' />
